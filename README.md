@@ -1,5 +1,7 @@
 # MIU-Seminar-2025-05-Homework1
 # Requirements
+# TEST 
+
 1. Set up an AWS Free Tier Account:
 * If you haven’t done so, create an AWS Free Tier account at AWS Sign-Up.
 * Use an email not associated with another AWS account.
